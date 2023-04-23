@@ -1,0 +1,6 @@
+C:\Users\Ahmet\Documents\MuratY_MVC_ProjeKampı\MVC_ProjeKampi\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Ahmet\Documents\MuratY_MVC_ProjeKampı\MVC_ProjeKampi\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Ahmet\Documents\MuratY_MVC_ProjeKampı\MVC_ProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Ahmet\Documents\MuratY_MVC_ProjeKampı\MVC_ProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Documents\MuratY_MVC_ProjeKampı\MVC_ProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Ahmet\Documents\MuratY_MVC_ProjeKampı\MVC_ProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.pdb
