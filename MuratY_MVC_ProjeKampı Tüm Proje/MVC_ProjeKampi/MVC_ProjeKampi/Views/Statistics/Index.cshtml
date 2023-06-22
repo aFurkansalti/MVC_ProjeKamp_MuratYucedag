@@ -1,0 +1,65 @@
+﻿@using EntityLayer.Concrete
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>İstatistik</h2>
+
+<br />
+
+<div class="info-box div-1">
+
+
+    <div class="info-box-content">
+        <span class="info-box-text">Toplam kategori sayısı</span>
+        <span class="info-box-number">@ViewBag.CategoryCounter</span>
+    </div>
+</div>
+<div class="info-box div-2">
+    <div class="info-box-content">
+        <span class="info-box-text">Yazılım kategorisine ait başlık sayısı</span>
+        <span class="info-box-number">@ViewBag.HeadingsOfYazılım</span>
+    </div>
+</div>
+<div class="info-box div-3">
+    <div class="info-box-content">
+        <span class="info-box-text">A harfini içeren yazar sayısı</span>
+        <span class="info-box-number">@ViewBag.WritersOfContainsA</span>
+    </div>
+</div>
+<div class="info-box div-4">
+    <div class="info-box-content">
+        <span class="info-box-text">En fazla başlık içeren kategori</span>
+        <span class="info-box-number">@ViewBag.MaxHeadingsOfCategory</span>
+    </div>
+</div>
+<div class="info-box div-5">
+    <div class="info-box-content">
+        <span class="info-box-text">Kategori tablosunda durumu true olan kategoriler ile false olan kategoriler arasındaki sayısal fark</span>
+        <span class="info-box-number">@ViewBag.StatusTrueOfCategory</span>
+    </div>
+</div>
+
+<style>
+    .div-1 {
+        background-color: chocolate;
+    }
+    
+    .div-2 {
+    	background-color: brown;
+    }
+    
+    .div-3 {
+    	background-color: aqua;
+    }
+
+    .div-4 {
+        background-color: olive;
+    }
+
+    .div-5 {
+        background-color: lightgreen;
+    }
+</style>

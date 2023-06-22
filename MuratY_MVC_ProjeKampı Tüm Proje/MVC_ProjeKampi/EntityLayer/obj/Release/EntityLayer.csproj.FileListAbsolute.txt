@@ -1,0 +1,12 @@
+C:\Users\Ahmet\Documents\MuratY_MVC_ProjeKampı\MVC_ProjeKampi\EntityLayer\bin\Release\EntityLayer.dll.config
+C:\Users\Ahmet\Documents\MuratY_MVC_ProjeKampı\MVC_ProjeKampi\EntityLayer\bin\Release\EntityLayer.dll
+C:\Users\Ahmet\Documents\MuratY_MVC_ProjeKampı\MVC_ProjeKampi\EntityLayer\bin\Release\EntityLayer.pdb
+C:\Users\Ahmet\Documents\MuratY_MVC_ProjeKampı\MVC_ProjeKampi\EntityLayer\bin\Release\EntityFramework.dll
+C:\Users\Ahmet\Documents\MuratY_MVC_ProjeKampı\MVC_ProjeKampi\EntityLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Ahmet\Documents\MuratY_MVC_ProjeKampı\MVC_ProjeKampi\EntityLayer\bin\Release\EntityFramework.xml
+C:\Users\Ahmet\Documents\MuratY_MVC_ProjeKampı\MVC_ProjeKampi\EntityLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Ahmet\Documents\MuratY_MVC_ProjeKampı\MVC_ProjeKampi\EntityLayer\obj\Release\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Ahmet\Documents\MuratY_MVC_ProjeKampı\MVC_ProjeKampi\EntityLayer\obj\Release\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Documents\MuratY_MVC_ProjeKampı\MVC_ProjeKampi\EntityLayer\obj\Release\EntityLayer.csproj.CopyComplete
+C:\Users\Ahmet\Documents\MuratY_MVC_ProjeKampı\MVC_ProjeKampi\EntityLayer\obj\Release\EntityLayer.dll
+C:\Users\Ahmet\Documents\MuratY_MVC_ProjeKampı\MVC_ProjeKampi\EntityLayer\obj\Release\EntityLayer.pdb
